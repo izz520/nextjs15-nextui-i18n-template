@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-color: #ff922d;
+    --text-bold: #000000;
+    --text-main: rgba(0, 0, 0, 0.5);
+    --text-tips: rgba(0, 0, 0, 0.3);
+    --text-black40: rgba(0, 0, 0, 0.4);
+    --text-white: #ffffff;
+    --card-bg: #f7f7f7;
+    --error: #eb4b6d;
+    --success: #30bd65;  
+}
+/* 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+} */

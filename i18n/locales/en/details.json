@@ -1,0 +1,10 @@
+{
+  "back": "Share Token Details",
+  "card": {
+    "txId": "TxID",
+    "time": "Time",
+    "mint": "Share Token Mint",
+    "aviliable": "Burn aviliable",
+    "button": "Burn COPX Share Token"
+  }
+}

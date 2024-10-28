@@ -1,0 +1,19 @@
+{
+  "loading": "Contract Processing",
+  "back": "Back",
+  "continue": "Continue",
+  "copySuccess": "Copy successfully!",
+  "connect": "Connect Wallet",
+  "connectTip": "Connect your wallet",
+  "connectDesc": "Connecting your wallet is like'Logging in' to Web3.Select your wallet from the options to get started.",
+  "dontHaveWallet": "I don't have wallet!",
+  "successModal": {
+    "txId": "TxID",
+    "time": "Time",
+    "mint": "Share Token Mint",
+    "pledged": "COPX Pledged",
+    "burn": "ShareToken Burnt",
+    "unpledged": "COPX Unpledged",
+    "withdraw": "Dividend Withdraw"
+  }
+}

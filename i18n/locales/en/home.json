@@ -1,0 +1,33 @@
+{
+  "panelTitle": "COPX Share Token Mint/Total",
+  "diviendTotal": "Total DAO Diviend",
+  "diviendLast": "Last DAO Diviend",
+  "pledged": "COPX Pledged",
+  "nextDate": "Next Dividend Date",
+  "holderTotal": "COPX Share Token Holder",
+  "mintButton": "Mint COPX Share Token",
+  "redeemButton": "Redeem COPX Share Token",
+  "mintModal": {
+    "title": "Mint Share Token",
+    "amount": "Minting Amount",
+    "placeholder": "Enter Minting Amount",
+    "shareBalance": "Share Token Balance",
+    "copxBalance": "COPX Balance",
+    "mintCount": "You can mint",
+    "mintShareButton": "Mint Share Token",
+    "inputError": "Please input correct amount",
+    "successModalTitle": "Mint Success！",
+    "failedModalTitle": "Mint Failed"
+  },
+  "burnModal": {
+    "title": "Burn Share Token",
+    "amount": "Unpledge Amount",
+    "placeholder": "Enter Unpledge Amount",
+    "maxWithdraw": "MAX withdrawl",
+    "burnCount": "You can unmint",
+    "burnShareButton": "Burn Share Token",
+    "inputError": "Please input correct amount",
+    "successModalTitle": "Burn Success！",
+    "failedModalTitle": "Burn Failure"
+  }
+}

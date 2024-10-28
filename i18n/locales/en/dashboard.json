@@ -1,0 +1,41 @@
+{
+  "panel": {
+    "hold": "Share Token Hold",
+    "pledged": "COPX Pledged",
+    "received": "Received",
+    "aviliable": " Aviliable"
+  },
+  "withdraw": "Withdraw all diviend",
+  "details": "Share Token Details",
+  "controlTitle": "Control Address",
+  "addControl": "Add",
+  "address": "Address",
+  "option": "Option",
+  "delete": "Delete",
+  "no": "No",
+  "yes": "Yes, I'm sure",
+  "deleteAddressModal": {
+    "title": "It will delete your control address!",
+    "address": "Delete control address",
+    "success": "Delete Control Address Success！",
+    "failed": "Delete Control Address Failure"
+  },
+  "addAddressModal": {
+    "title": "It will add your control address!",
+    "address": "Add control address",
+    "success": "Add Control Address Success！",
+    "failed": "Add Control Address Failure"
+  },
+  "withdrawModal": {
+    "success": "Withdraw Success！",
+    "amount": "Dividend Withdraw",
+    "failed": "Withdraw Failure"
+  },
+  "newControlModal": {
+    "title": "Add control address",
+    "address": "New control address",
+    "placeholder": "Enter New control address",
+    "addButton": "Add Address",
+    "errorMessage": "Please enter a valid address"
+  }
+}
